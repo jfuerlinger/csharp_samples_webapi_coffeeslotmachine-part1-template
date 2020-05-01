@@ -21,10 +21,11 @@ Verwenden Sie Swagger um aus den Controller-Actions bzw. den hinterlegten XML-Ko
 
 Implementieren Sie eine Console Application für Endanwender, welche als User Interface für eine Kaffee-Bestellung dient (Textuelles Menü, etc.).
 
+Verwenden greifen Sie in der Console Application auf den `OrderController` zurück.
 
 ## Hinweise
 
-1. Greifen Sie zur Umsetzung beider Clients auf den bereits implementierten `OrderController` zurück
+1. Greifen Sie zur Umsetzung beider Clients auf den bereits implementierten `OrderController` zurück.
 2. Versuchen Sie wenn möglich nicht den Code des `OrderController` zu verändern.
 
 
